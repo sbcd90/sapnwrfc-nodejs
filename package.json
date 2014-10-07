@@ -1,0 +1,7 @@
+{
+    "name" : "sapnwrfc-nodejs",
+    "description" : "Nodejs binding for SAPNWRFC",
+    "scripts" : {
+        "postinstall" : "node copyBinaries.js"
+    }
+}
