@@ -4,7 +4,7 @@
     'library': 'shared_library',
     'target_arch': 'x64',
     'output_directory': 'Release',
-    'msvs_nwrfcsdk_path': 'C:/Users/i076326/Documents/programs/sapnwrfc-nodejs/nwrfcsdk', #Assumed to be nwrfcsdk
+    'msvs_nwrfcsdk_path': '<(module_root_dir)/nwrfcsdk', #Assumed to be nwrfcsdk
     'OS': 'win'    
   },
 
