@@ -1,7 +1,7 @@
 {
     "name" : "sapnwrfc-nodejs",
     "description" : "Nodejs binding for SAPNWRFC",
-    "repository": { "type": "git", "url": "git://github.com/sbcd90/sapnwrfc-nodejs.git" }
+    "repository": { "type": "git", "url": "git://github.com/sbcd90/sapnwrfc-nodejs.git" },
     "scripts" : {
         "postinstall" : "node copyBinaries.js"
     }
