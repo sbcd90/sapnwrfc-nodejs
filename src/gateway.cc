@@ -29,7 +29,7 @@ v8::Handle<v8::Value> Connector(const v8::Arguments &args){
     loginParams[3].name = cU("user");
     loginParams[3].value = cU("DEYSUB");
     loginParams[4].name = cU("passwd");
-    loginParams[4].value = cU("algo..addict965431");
+    loginParams[4].value = cU("******");
     loginParams[5].name = cU("lang");
     loginParams[5].value = cU("EN");
     
